@@ -1,5 +1,4 @@
 # script: ground
-
 extends StaticBody2D
 
 onready var bottom_right = get_node("bottom_right")
